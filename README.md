@@ -8,8 +8,6 @@
   <img src="./public/preview.png" alt="demonstração do projeto" >
 </div>
 
-<p align="center"><a href="https://teste-supliu.netlify.app/">Ver Projeto</a></p>
-
 ---
 
 <h2>Tecnologias:</h2>
@@ -28,7 +26,7 @@ Você precisa ter o [Node](https://nodejs.org/en/), o [Git](https://git-scm.com/
 
 ```bash
 1. Clone o repositório:
-$ git clone https://github.com/felipems1/teste-supliu.git
+$ git clone https://github.com/felipems1/teste-tecnico.git
 
 2. Acesse a pasta e instale as dependências via terminal:
 $ yarn install / npm install
